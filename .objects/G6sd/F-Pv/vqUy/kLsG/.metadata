@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Employee Birtdate",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "kLsGwDjTWESQa3ULp_q5qQ",
+  "Reference": "2BOSw8bB9E2nqrxdOWJG7A/kLsGwDjTWESQa3ULp_q5qQ",
+  "ParentRef": "2BOSw8bB9E2nqrxdOWJG7A/vqUyGcN8XUCvCJQmwUVXpA",
+  "Created": "2024-05-24T09:54:56.7798019Z",
+  "Updated": "2024-05-24T09:54:56.7798019Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,11 @@
+﻿{
+  "Name": "Chrome: ACME System 1 - Employees app",
+  "Type": "App",
+  "Id": "G6sdgX6MdkCLR_JFCSKXhw",
+  "Reference": "2BOSw8bB9E2nqrxdOWJG7A/G6sdgX6MdkCLR_JFCSKXhw",
+  "Created": "2024-05-24T09:54:56.1757544Z",
+  "Updated": "2024-05-24T09:54:56.1757544Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

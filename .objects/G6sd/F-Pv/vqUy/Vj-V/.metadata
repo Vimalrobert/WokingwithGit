@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Close Start message box",
+  "Type": "Element",
+  "TaxonomyType": "None",
+  "Id": "Vj-VEYeyy0OWxBj70UNP1w",
+  "Reference": "2BOSw8bB9E2nqrxdOWJG7A/Vj-VEYeyy0OWxBj70UNP1w",
+  "ParentRef": "2BOSw8bB9E2nqrxdOWJG7A/vqUyGcN8XUCvCJQmwUVXpA",
+  "Created": "2024-05-24T09:54:56.3294906Z",
+  "Updated": "2024-05-24T09:54:56.3294906Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

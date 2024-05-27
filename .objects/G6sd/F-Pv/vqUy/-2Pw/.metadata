@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Emplyoee Phone",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "-2PwZ3adjk-eatvLTnPehw",
+  "Reference": "2BOSw8bB9E2nqrxdOWJG7A/-2PwZ3adjk-eatvLTnPehw",
+  "ParentRef": "2BOSw8bB9E2nqrxdOWJG7A/vqUyGcN8XUCvCJQmwUVXpA",
+  "Created": "2024-05-24T09:54:56.6950015Z",
+  "Updated": "2024-05-24T09:54:56.6950015Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
